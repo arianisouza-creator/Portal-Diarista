@@ -1,0 +1,10 @@
+{
+  "key": "diarista",
+  "name": "Portal Diarista",
+  "browserTitle": "MSE | Portal Diarista",
+  "brandTitle": "Portal Diarista",
+  "brandSubtitle": "Controle administrativo - operacao mensal",
+  "greeting": "Boa tarde. Bem-vinda ao Portal Diarista.",
+  "defaultModule": "diarista",
+  "enabledModules": ["diarista"]
+}
